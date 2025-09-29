@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dantinhoz&label=Profile%20views&color=0e75b6&style=flat" alt="dantinhoz" /> </p>
 
-- 🌱 Estou estudando sobre **HTML, CSS e Fundamentos da Computação**
+- 🌱 Estou estudando sobre **HTML, CSS, JavaScript, ReactJS e Engenharia de Software**
 
 - 👨‍💻 Todos os meus projetinhos estão disponíveis [https://github.com/dantinhoz](https://github.com/dantinhoz)
 
